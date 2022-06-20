@@ -65,11 +65,7 @@ function filterData(searchTerm) {
 // console.log(myName)
 
 
-// async function myDisplay() {
-//     let myPromise = new Promise (function( resolve, reject) {
-//         resolve('Ich liebe die')
-//     }) 
-//     let demo = await myPromise
+
 //     console.log(demo)
 // }
 
