@@ -46,11 +46,7 @@ function filterData(searchTerm) {
 
 
 
-
-
-
-
-//Just trying out ES6 destructuring  assignment
+//Just trying out ES6 destructuring  assignment. Pay no attention
 
 // const obj = {
 //     myname: 'Jerry',
@@ -63,13 +59,3 @@ function filterData(searchTerm) {
 // console.log('name and age: ', myname, ',', age)
 // const myName = obj.myname ;
 // console.log(myName)
-
-
-
-//     console.log(demo)
-// }
-
-
-// myDisplay()
-
-
